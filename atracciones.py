@@ -1,0 +1,1 @@
+atracciones_modernas=['Simulador virtual','Carrusel moderno']
