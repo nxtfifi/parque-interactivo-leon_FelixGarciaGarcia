@@ -1,0 +1,1 @@
+atracciones_antiguas=['rueda de la fortuna','caballitos']
